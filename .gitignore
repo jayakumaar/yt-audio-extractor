@@ -1,0 +1,14 @@
+# .gitignore
+backend/venv/
+
+venv/
+/frontend/node_modules/
+*.log
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+/frontend/.eslintcache
+
+# Environment variables
+.env
